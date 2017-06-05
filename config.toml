@@ -1,0 +1,8 @@
+languageCode = "en-us"
+title = "bampfa documentation"
+baseURL = "http://bampfa.github.io/BAMPFA-documentation"
+
+theme="hugo-theme-docdock"
+unfoldedMenus = ["start"]
+
+publishDir = "docs"

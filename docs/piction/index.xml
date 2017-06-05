@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pictions on bampfa documentation</title>
+    <link>http://bampfa.github.io/BAMPFA-documentation/piction/</link>
+    <description>Recent content in Pictions on bampfa documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://bampfa.github.io/BAMPFA-documentation/piction/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Advanced Piction Usage</title>
+      <link>http://bampfa.github.io/BAMPFA-documentation/piction/advanced-piction-tips--tricks-uploading-metadata--more-/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://bampfa.github.io/BAMPFA-documentation/piction/advanced-piction-tips--tricks-uploading-metadata--more-/</guid>
+      <description>Short login screen URL: bampfa.org/piction
+If you have any questions about any of this, or if you experience anything unexpected while working in Piction, ask Michael, Orlando, or Dave. Don’t suffer alone!
+A WORD OF WARNING: DON’T TRY THIS AT HOME (WITHOUT TRAINING)
+ IF YOU HAVE NOT YET RECEIVED PICTION TRAINING, DO NOT TRY TO UPLOAD ANY IMAGES OR EDIT ANY METADATA. Preface: about accounts Log into the account into which you need to upload images or batch edit metadata.</description>
+    </item>
+    
+    <item>
+      <title>Filenaming Cheat Sheet</title>
+      <link>http://bampfa.github.io/BAMPFA-documentation/piction/piction-filename-examples-cheat-sheet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://bampfa.github.io/BAMPFA-documentation/piction/piction-filename-examples-cheat-sheet/</guid>
+      <description>NO SPECIAL CHARACTERS (PUNCTUATION, ACCENTS, SPACES, ETC)
+Only use &amp;ldquo;normal&amp;rdquo; characters: A-Z a-z 0-9 plus _ and -
+Artworks NOT accessioned by BAMPFA General structure: &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;ArtistLastName_Title-Of-Work_Optional-date-if-known_number.filetype
+Examples:  Baldesarri_I-Am-Making-Art_1971_001.tif
+(or: Baldesarri_I-Am-Making-Art_001.tif)
+Unknown_Bodhisattva-Padmapani_001.tif
+ Artworks in the BAMPFA permanent collection Note: only specific staff may upload collection images; if you find yourself with collection images, please pass them along to Michael or Tracy
+General structure: &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;bampfa_accession-number_page number or view_derivative number.filetype</description>
+    </item>
+    
+    <item>
+      <title>Piction Documentation</title>
+      <link>http://bampfa.github.io/BAMPFA-documentation/piction/piction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://bampfa.github.io/BAMPFA-documentation/piction/piction/</guid>
+      <description>Here&amp;rsquo;s some basic info about using Piction.</description>
+    </item>
+    
+  </channel>
+</rss>
