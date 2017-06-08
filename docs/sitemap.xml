@@ -42,12 +42,12 @@
   </url>
   
   <url>
-    <loc>http://bampfa.github.io/BAMPFA-documentation/general-imaging/images-for-website/</loc>
+    <loc>http://bampfa.github.io/BAMPFA-documentation/tags/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://bampfa.github.io/BAMPFA-documentation/tags/</loc>
-    <priority>0</priority>
+    <loc>http://bampfa.github.io/BAMPFA-documentation/general-imaging/images-for-website/</loc>
   </url>
   
   <url>

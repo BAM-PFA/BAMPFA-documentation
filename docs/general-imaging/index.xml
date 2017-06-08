@@ -33,14 +33,15 @@ Please wear a pair of white cotton gloves when handling photographs or film. Use
     </item>
     
     <item>
-      <title>Prepping images for the website</title>
+      <title>Website image requirements</title>
       <link>http://bampfa.github.io/BAMPFA-documentation/general-imaging/images-for-website/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://bampfa.github.io/BAMPFA-documentation/general-imaging/images-for-website/</guid>
-      <description>HERE&amp;rsquo;S WHAT YOU GOTTA DO. 1.
-2.
-3.</description>
+      <description> Requirements for web images  Maximum height/width of 1200px
+ Filename contains no spaces, accurately describes images
+ Saved as a JPG, at 72 DPI
+  </description>
     </item>
     
   </channel>
