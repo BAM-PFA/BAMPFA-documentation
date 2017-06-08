@@ -1,7 +1,7 @@
 +++
 draft="false"
 
-title = "Prepping images for the website"
+title = "Website image requirements"
 description=""
 
 [menu.main]
@@ -11,10 +11,10 @@ weight = 2
 
 +++
 
-## HERE'S WHAT YOU GOTTA DO.
+## Requirements for web images
 
-1.
+* Maximum height/width of 1200px
 
-2.
+* Filename contains no spaces, accurately describes images
 
-3.
+* Saved as a JPG, at 72 DPI
