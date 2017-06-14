@@ -16,6 +16,14 @@
   </url>
   
   <url>
+    <loc>http://bampfa.github.io/BAMPFA-documentation/library-guidelines/cinefiles-scanning-and-uploading-directions/</loc>
+  </url>
+  
+  <url>
+    <loc>http://bampfa.github.io/BAMPFA-documentation/library-guidelines/ocr-directions/</loc>
+  </url>
+  
+  <url>
     <loc>http://bampfa.github.io/BAMPFA-documentation/piction/piction-filename-examples-cheat-sheet/</loc>
   </url>
   
@@ -33,7 +41,20 @@
   </url>
   
   <url>
+    <loc>http://bampfa.github.io/BAMPFA-documentation/piction/piction-basic-instructions/</loc>
+  </url>
+  
+  <url>
     <loc>http://bampfa.github.io/BAMPFA-documentation/</loc>
+  </url>
+  
+  <url>
+    <loc>http://bampfa.github.io/BAMPFA-documentation/library-guidelines/library/</loc>
+  </url>
+  
+  <url>
+    <loc>http://bampfa.github.io/BAMPFA-documentation/library-guidelines/</loc>
+    <priority>0</priority>
   </url>
   
   <url>

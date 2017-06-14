@@ -11,7 +11,7 @@
     
     
     <item>
-      <title>Advanced Piction Usage</title>
+      <title>Advanced Piction Usage: Uploading, Metadata, Etc.</title>
       <link>http://bampfa.github.io/BAMPFA-documentation/piction/advanced-piction-tips--tricks-uploading-metadata--more/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -19,17 +19,40 @@
       <description>Short login screen URL: bampfa.org/piction
 If you have any questions about any of this, or if you experience anything unexpected while working in Piction, ask Michael, Orlando, or Dave. Don’t suffer alone!
 A WORD OF WARNING: DON’T TRY THIS AT HOME (WITHOUT TRAINING)
- IF YOU HAVE NOT YET RECEIVED PICTION TRAINING, DO NOT TRY TO UPLOAD ANY IMAGES OR EDIT ANY METADATA. Preface: about accounts Log into the account into which you need to upload images or batch edit metadata.</description>
+IF YOU HAVE NOT YET RECEIVED PICTION TRAINING, DO NOT TRY TO UPLOAD ANY IMAGES OR EDIT ANY METADATA.
+Preface: about accounts Log into the account into which you need to upload images or batch edit metadata.</description>
     </item>
     
     <item>
-      <title>BAMPFA Filenaming Guide</title>
+      <title>BAMPFA Filenaming Guidelines</title>
       <link>http://bampfa.github.io/BAMPFA-documentation/piction/piction-filenaming/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://bampfa.github.io/BAMPFA-documentation/piction/piction-filenaming/</guid>
-      <description>BAMPFA Filenaming Guidelines * *Updated *2017-03-27
+      <description>Updated 2017-03-27
 Filenaming is one of the most important things you do to a digital image after you click the shutter or press &amp;ldquo;scan.&amp;rdquo; It is the first line of defense in making sure your image is not lost in the digital ether. For Art Collection images in Piction, it is absolutely critical to follow the naming conventions here. You’ll see references to metadata here, which you can learn more about from this document.</description>
+    </item>
+    
+    <item>
+      <title>CineFiles Scanning and Uploading</title>
+      <link>http://bampfa.github.io/BAMPFA-documentation/library-guidelines/cinefiles-scanning-and-uploading-directions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://bampfa.github.io/BAMPFA-documentation/library-guidelines/cinefiles-scanning-and-uploading-directions/</guid>
+      <description>CINEFILES SCANNING AND UPLOADING DIRECTIONS
+Before you start scanning Make a folder for yourself where you will save all your work for the day. Name it according to this structure:YYMMDDyourname Example: 150729Maya
+ Put the folder into the Cinefiles folder: CINEFILES&amp;gt;IMAGES IN PROCESS  Get ready to scan! Look in the drawer for documents that need to be scanned.
+ If you start to scan an entire folder of documents, be sure to keep them together, and keep scanned documents separate from unscanned ones.</description>
+    </item>
+    
+    <item>
+      <title>Clipping Files OCR instructions</title>
+      <link>http://bampfa.github.io/BAMPFA-documentation/library-guidelines/ocr-directions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://bampfa.github.io/BAMPFA-documentation/library-guidelines/ocr-directions/</guid>
+      <description>DIRECTIONS FOR OCR SCANNING 2/11/2015 Scanning 1) Log intohttp://berkeley.box.com (use your Calnet ID) and go to the OCR Sheets folder. Volunteers should ask Michael, Jason, or Nancy to access Box for these steps.
+2) All the film title cabinets are labeled CAB01, CAB02, etc. and there is an Excel spreadsheet for each one. Find the spreadsheet for the cabinet that you will be working on and download it. Move the spreadsheet from the desktop to the OCR DAILY FOLDER.</description>
     </item>
     
     <item>
@@ -68,6 +91,26 @@ ABOUT
 4&amp;rdquo; x 5” transparencies (positive large format film shot with a &amp;ldquo;real” camera) are in many cases the only photography that exist for older BAMPFA collection works. Many of these were shot by Ben Blackwell through the early 2000s before digital cameras replaced film for art collection documentation.
 HOW TO
 Please wear a pair of white cotton gloves when handling photographs or film. Use one of the Epson 10,000XL scanners in the library or the communications office.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Piction</title>
+      <link>http://bampfa.github.io/BAMPFA-documentation/piction/piction-basic-instructions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://bampfa.github.io/BAMPFA-documentation/piction/piction-basic-instructions/</guid>
+      <description>General information Piction is intended to be the primary place to store and share images internally, arcoss all of BAMPFA. We can use this system to create checklists, compile images for publications, fulfill research requests, and many other tasks. Piction is accessed via the web using the following URL:
+bampfa.org/piction
+Please bookmark this URL. Piction requires Firefox to run properly. It won’t work in Chrome. If you need help with logging in (or anything else), please email Michael.</description>
+    </item>
+    
+    <item>
+      <title>Library Documentation</title>
+      <link>http://bampfa.github.io/BAMPFA-documentation/library-guidelines/library/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://bampfa.github.io/BAMPFA-documentation/library-guidelines/library/</guid>
+      <description>Here are some documents about library processes.</description>
     </item>
     
     <item>

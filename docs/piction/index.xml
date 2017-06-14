@@ -11,7 +11,7 @@
     
     
     <item>
-      <title>Advanced Piction Usage</title>
+      <title>Advanced Piction Usage: Uploading, Metadata, Etc.</title>
       <link>http://bampfa.github.io/BAMPFA-documentation/piction/advanced-piction-tips--tricks-uploading-metadata--more/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -19,16 +19,17 @@
       <description>Short login screen URL: bampfa.org/piction
 If you have any questions about any of this, or if you experience anything unexpected while working in Piction, ask Michael, Orlando, or Dave. Don’t suffer alone!
 A WORD OF WARNING: DON’T TRY THIS AT HOME (WITHOUT TRAINING)
- IF YOU HAVE NOT YET RECEIVED PICTION TRAINING, DO NOT TRY TO UPLOAD ANY IMAGES OR EDIT ANY METADATA. Preface: about accounts Log into the account into which you need to upload images or batch edit metadata.</description>
+IF YOU HAVE NOT YET RECEIVED PICTION TRAINING, DO NOT TRY TO UPLOAD ANY IMAGES OR EDIT ANY METADATA.
+Preface: about accounts Log into the account into which you need to upload images or batch edit metadata.</description>
     </item>
     
     <item>
-      <title>BAMPFA Filenaming Guide</title>
+      <title>BAMPFA Filenaming Guidelines</title>
       <link>http://bampfa.github.io/BAMPFA-documentation/piction/piction-filenaming/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://bampfa.github.io/BAMPFA-documentation/piction/piction-filenaming/</guid>
-      <description>BAMPFA Filenaming Guidelines * *Updated *2017-03-27
+      <description>Updated 2017-03-27
 Filenaming is one of the most important things you do to a digital image after you click the shutter or press &amp;ldquo;scan.&amp;rdquo; It is the first line of defense in making sure your image is not lost in the digital ether. For Art Collection images in Piction, it is absolutely critical to follow the naming conventions here. You’ll see references to metadata here, which you can learn more about from this document.</description>
     </item>
     
@@ -46,6 +47,17 @@ Examples:  Baldesarri_I-Am-Making-Art_1971_001.tif
 Unknown_Bodhisattva-Padmapani_001.tif
  Artworks in the BAMPFA permanent collection Note: only specific staff may upload collection images; if you find yourself with collection images, please pass them along to Michael or Tracy
 General structure: &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;bampfa_accession-number_page number or view_derivative number.filetype</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Piction</title>
+      <link>http://bampfa.github.io/BAMPFA-documentation/piction/piction-basic-instructions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://bampfa.github.io/BAMPFA-documentation/piction/piction-basic-instructions/</guid>
+      <description>General information Piction is intended to be the primary place to store and share images internally, arcoss all of BAMPFA. We can use this system to create checklists, compile images for publications, fulfill research requests, and many other tasks. Piction is accessed via the web using the following URL:
+bampfa.org/piction
+Please bookmark this URL. Piction requires Firefox to run properly. It won’t work in Chrome. If you need help with logging in (or anything else), please email Michael.</description>
     </item>
     
     <item>
