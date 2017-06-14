@@ -1,0 +1,757 @@
+<!DOCTYPE html>
+<html lang="en" class="js csstransforms3d">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="generator" content="Hugo 0.21" />
+    <meta name="description" content="">
+
+
+    <link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon" />
+
+    <title>Advanced Piction Usage: Uploading, Metadata, Etc. :: bampfa documentation</title>
+    <link href="/BAMPFA-documentation/css/nucleus.css" rel="stylesheet">
+    <link href="/BAMPFA-documentation/css/font-awesome.min.css" rel="stylesheet">
+    <link href="/BAMPFA-documentation/css/hybrid.css" rel="stylesheet">
+    <link href="/BAMPFA-documentation/css/featherlight.min.css" rel="stylesheet">
+    <link href="/BAMPFA-documentation/css/horsey.css" rel="stylesheet">
+    <link href="/BAMPFA-documentation/css/theme.css" rel="stylesheet">
+    <link rel="stylesheet" href="/BAMPFA-documentation/css/bootstrap.min.css">
+    <script src="/BAMPFA-documentation/js/jquery-2.x.min.js"></script>
+    <style type="text/css">
+      :root #header + #content > #left > #rlblock_left {
+        display:none !important;
+      }
+    </style>
+
+    
+
+    
+
+  </head>
+  <body class="" data-url="/BAMPFA-documentation/piction/advanced-piction-tips--tricks-uploading-metadata--more/">
+    
+<nav id="sidebar" class="">
+  <div id="header-wrapper">
+    <div id="header">
+       
+	<p>BAMPFA documentation</p>
+ 
+
+
+    </div>
+    
+        <div class="searchbox">
+    <label for="search-by"><i class="fa fa-search"></i></label>
+    <input data-search-input id="search-by" type="text" placeholder="Search...">
+    <span data-search-clear=""><i class="fa fa-close"></i></span>
+</div>
+<script type="text/javascript" src="/BAMPFA-documentation/js/lunr.min.js"></script>
+<script type="text/javascript" src="/BAMPFA-documentation/js/horsey.js"></script>
+<script type="text/javascript">
+    var baseurl = "http:\/\/bampfa.github.io\/BAMPFA-documentation";
+</script>
+<script type="text/javascript" src="/BAMPFA-documentation/js/search.js"></script>
+
+    
+  </div>
+
+  <div class="highlightable">
+    <ul class="topics">
+        
+            <li data-nav-id="/BAMPFA-documentation/" class="dd-item">
+            <a href="/BAMPFA-documentation/"><i class="fa fa-fw fa-home"></i></a>
+            </li>
+        
+
+        
+        
+        
+        
+        
+            
+    
+    
+    
+    
+        <li data-nav-id="/BAMPFA-documentation/piction/piction/" class="dd-item 
+         
+        parent
+        "
+        >
+            <a href="/BAMPFA-documentation/piction/piction/">
+                <span>Piction Documentation</span>
+                
+                    
+                        <i class="fa fa-angle-down fa-lg category-icon"></i>
+                    
+                
+                
+            </a>
+            
+                
+                
+                
+                    
+                
+            
+            
+            
+                <ul>
+                
+                    
+    
+    
+    
+    
+        <li data-nav-id="/BAMPFA-documentation/piction/piction-basic-instructions/" class="dd-item 
+         
+        
+        "
+        >
+            <a href="/BAMPFA-documentation/piction/piction-basic-instructions/">
+                <span>Introduction to Piction</span>
+                
+                
+            </a>
+            
+            
+            
+        </li>
+    
+
+                
+                    
+    
+    
+    
+    
+        <li data-nav-id="/BAMPFA-documentation/piction/piction-filenaming/" class="dd-item 
+         
+        
+        "
+        >
+            <a href="/BAMPFA-documentation/piction/piction-filenaming/">
+                <span>BAMPFA Filenaming Guidelines</span>
+                
+                
+            </a>
+            
+            
+            
+        </li>
+    
+
+                
+                    
+    
+    
+    
+    
+        <li data-nav-id="/BAMPFA-documentation/piction/piction-filename-examples-cheat-sheet/" class="dd-item 
+         
+        
+        "
+        >
+            <a href="/BAMPFA-documentation/piction/piction-filename-examples-cheat-sheet/">
+                <span>Filenaming Cheat Sheet</span>
+                
+                
+            </a>
+            
+            
+            
+        </li>
+    
+
+                
+                    
+    
+    
+    
+    
+        <li data-nav-id="/BAMPFA-documentation/piction/advanced-piction-tips--tricks-uploading-metadata--more/" class="dd-item 
+        active 
+        
+        "
+        >
+            <a href="/BAMPFA-documentation/piction/advanced-piction-tips--tricks-uploading-metadata--more/">
+                <span>Advanced Piction Usage: Uploading, Metadata, Etc.</span>
+                
+                
+            </a>
+            
+                
+                
+                
+            
+            
+            
+        </li>
+    
+
+                
+                    
+    
+    
+    
+    
+        <li data-nav-id="/BAMPFA-documentation/piction/piction-metadata-guide/" class="dd-item 
+         
+        
+        "
+        >
+            <a href="/BAMPFA-documentation/piction/piction-metadata-guide/">
+                <span>Piction Metadata Guide</span>
+                
+                
+            </a>
+            
+            
+            
+        </li>
+    
+
+                
+                </ul>
+             
+        </li>
+    
+
+        
+            
+    
+    
+    
+    
+        <li data-nav-id="/BAMPFA-documentation/general-imaging/imaging/" class="dd-item 
+         
+        
+        "
+        >
+            <a href="/BAMPFA-documentation/general-imaging/imaging/">
+                <span>General Imaging Guidelines</span>
+                
+                    
+                        <i class="fa fa-angle-right fa-lg category-icon"></i>
+                    
+                
+                
+            </a>
+            
+            
+            
+                <ul>
+                
+                    
+    
+    
+    
+    
+        <li data-nav-id="/BAMPFA-documentation/general-imaging/guidelines-to-scan-4_-x-5_-transparencies/" class="dd-item 
+         
+        
+        "
+        >
+            <a href="/BAMPFA-documentation/general-imaging/guidelines-to-scan-4_-x-5_-transparencies/">
+                <span>Guidelines for scanning 4x5 film</span>
+                
+                
+            </a>
+            
+            
+            
+        </li>
+    
+
+                
+                    
+    
+    
+    
+    
+        <li data-nav-id="/BAMPFA-documentation/general-imaging/images-for-website/" class="dd-item 
+         
+        
+        "
+        >
+            <a href="/BAMPFA-documentation/general-imaging/images-for-website/">
+                <span>Website image requirements</span>
+                
+                
+            </a>
+            
+            
+            
+        </li>
+    
+
+                
+                </ul>
+             
+        </li>
+    
+
+        
+            
+    
+    
+    
+    
+        <li data-nav-id="/BAMPFA-documentation/library-guidelines/library/" class="dd-item 
+         
+        
+        "
+        >
+            <a href="/BAMPFA-documentation/library-guidelines/library/">
+                <span>Library Documentation</span>
+                
+                    
+                        <i class="fa fa-angle-right fa-lg category-icon"></i>
+                    
+                
+                
+            </a>
+            
+            
+            
+                <ul>
+                
+                    
+    
+    
+    
+    
+        <li data-nav-id="/BAMPFA-documentation/library-guidelines/cinefiles-scanning-and-uploading-directions/" class="dd-item 
+         
+        
+        "
+        >
+            <a href="/BAMPFA-documentation/library-guidelines/cinefiles-scanning-and-uploading-directions/">
+                <span>CineFiles Scanning and Uploading</span>
+                
+                
+            </a>
+            
+            
+            
+        </li>
+    
+
+                
+                    
+    
+    
+    
+    
+        <li data-nav-id="/BAMPFA-documentation/library-guidelines/ocr-directions/" class="dd-item 
+         
+        
+        "
+        >
+            <a href="/BAMPFA-documentation/library-guidelines/ocr-directions/">
+                <span>Clipping Files OCR instructions</span>
+                
+                
+            </a>
+            
+            
+            
+        </li>
+    
+
+                
+                </ul>
+             
+        </li>
+    
+
+        
+
+        
+
+        
+        
+        
+    </ul>
+    
+     
+    <section id="footer">
+      
+    </section>
+  </div>
+</nav>
+
+
+
+        <section id="body">
+        <div id="overlay"></div>
+        <div class="padding highlightable">
+        
+          <div id="top-bar">
+            
+
+            <div id="breadcrumbs" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+                <span id="sidebar-toggle-span">
+                  <a href="#" id="sidebar-toggle" data-sidebar-toggle="">
+                    <i class="fa fa-bars"></i>
+                  </a>
+                </span>
+                <span id="toc-menu"><a href=""><i class="fa fa-list-alt"></i></a></span>
+                <a href="http://bampfa.github.io/BAMPFA-documentation">
+                  <span class="fa fa-arrow-circle-right" style="font-size:larger" aria-hidden="true"></span>
+                  bampfa documentation
+                </a>
+                
+                   / <a href='/BAMPFA-documentation/piction/piction/'>Piction Documentation</a> / <a href='/BAMPFA-documentation/piction/advanced-piction-tips--tricks-uploading-metadata--more/'>Advanced Piction Usage: Uploading, Metadata, Etc.</a>
+                
+                
+            </div>
+            <div class="progress">
+    <div class="wrapper">
+<nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li>
+<ul>
+<li>
+<ul>
+<li><a href="#preface-about-accounts">Preface: about accounts</a></li>
+<li><a href="#foreword-about-patience">Foreword: about patience</a></li>
+</ul></li>
+<li><a href="#uploading">UPLOADING</a></li>
+<li><a href="#it-s-metadata-time">IT’S METADATA TIME</a></li>
+<li><a href="#creating-folders-and-moving-stuff">Creating folders and moving stuff</a></li>
+</ul></li>
+</ul></li>
+</ul>
+</nav>
+    </div>
+</div>
+
+          </div>
+        
+        
+        <div id="body-inner">
+          
+            <h1>Advanced Piction Usage: Uploading, Metadata, Etc.</h1>
+          
+
+
+
+
+<p>Short login screen URL: <a href="http://bampfa.org/piction">bampfa.org/piction</a></p>
+
+<p><strong><em>If you have any questions about any of this, or if you experience anything unexpected while working in Piction, ask Michael, Orlando, or Dave. Don’t suffer alone!</em></strong></p>
+
+<p><p style="color:red; text-align:center; font-size:250%"><strong><em>A WORD OF WARNING: DON’T TRY THIS AT HOME (WITHOUT TRAINING)</em></strong></p>
+<p style="font-size:250%"><strong><em>IF YOU HAVE NOT YET RECEIVED PICTION TRAINING, DO NOT TRY TO UPLOAD ANY IMAGES OR EDIT ANY METADATA.</em></strong></p></p>
+
+<h4 id="preface-about-accounts">Preface: about accounts</h4>
+
+<p>Log into the account into which you need to upload images or batch edit metadata. E.g., if you have &ldquo;JaneDoe<strong>-</strong>FilmStills&rdquo; and “JaneDoe-GalleryExhibitions” accounts and you need to upload film stills, log into your FilmStills account. If you just need to search or put together light boxes it doesn’t matter which account you use.</p>
+
+<h4 id="foreword-about-patience">Foreword: about patience</h4>
+
+<p>Piction is a delicate flower. If it stalls, gets hung up on something, or you experience odd behavior from it, take a deep breath and reload your browser window. This will solve many problems.</p>
+
+<h3 id="uploading">UPLOADING</h3>
+
+<hr />
+
+<p>In all cases, make sure you have your files named correctly <em>before</em> you upload. Really, it’s important. For art collection images it’s critical&ndash;only specific staff should upload art collection images. <a href="https://docs.google.com/a/berkeley.edu/document/d/1gvPV2pyvgX9XgkxrmfKdFI4W6wJ48Z9RK451e4hhUDM/edit?usp=sharing">Here’s a filename guide</a>.</p>
+
+<p>To upload a single image</p>
+
+<p>1) Click the &ldquo;Individual upload&rdquo; button: <img src="https://lh3.googleusercontent.com/X2xNzIHtm14pmgXDrw_QIN4JGcHE1SwDjVCR0C0-YlqP1rZvZsy8clVGHsw9KiDGuYPmU2IZdcCvMKu9mBwBFHg5BkZMUxPzxWp2A2ib1gmKOYUgf03y5qO40B3ii_fTZPQt5BOr" alt="system menu" /></p>
+
+<p>2) In the window that opens, click on &ldquo;<strong>Go to add images</strong>&rdquo; then in the next window click on “<strong>Choose file.</strong>” You then navigate to the file you want to upload and click “<strong>Open.</strong>” Leave all the other options as-is.</p>
+
+<p>3) Click on &ldquo;<strong>Load Image</strong>&rdquo; and in a moment you should see your image ready to go. <em>If it’s a large image, give it a sec to load</em>.</p>
+
+<p>4) Your image will now be in the &ldquo;QA&rdquo; (quality assurance) folder for the collection you’re working in. Go there to add metadata and complete your work (see below).</p>
+
+<p>To upload images in bulk</p>
+
+<p><em>This is a two-part process: 1) load images to the remote FTP (File Transfer Protocol) folder 2) tell Piction to look for your images in the FTP folder.</em></p>
+
+<p>1) Get your images ready in a folder on your desktop. Just one folder, please.</p>
+
+<p>2) Open Cyberduck. <img src="https://lh4.googleusercontent.com/NEUFLzyOvCNNtJsAkp1qt5n0MrbVmDLea15OPdjLaxj02-sBXcUNumwjB9A5iRrKQca6hXJOMsllnEpKQAphtGJ6_Ny-DtwF_0z09851YNfCYhg8vgOYmRXPyGKPmuf00mFbGEQm" alt="cyberduck icon" />Click on &ldquo;<strong>Open Connection.</strong>&rdquo; If you have done this before you can click on history and the Piction connection should be listed. Otherwise, in the connection window that opens, type in the Server: <strong>ucb1.piction.com</strong>. The username is <strong>bampfa</strong> and if you don’t have the password already, ask Michael, Orlando, or Dave.</p>
+
+<p>The window should look like this: <img src="https://lh5.googleusercontent.com/_vS-_MaNpS_XAgYogr8wA9UYKpYEPVHTneO2ce20CeAHJHde51caARoO8cK22VNbHct5tyno2vn23efoldTqvg9e5-cpi4QQLZE_iJznq2fq0OLfsUG_SAp58W39eKgro4rJrNiA" alt="cyberduck login" /></p>
+
+<p>You can leave all the other settings alone. Just make sure &ldquo;anonymous login&rdquo; isn’t checked.</p>
+
+<p>3) When Cyberduck logs into the Piction FTP folder you should see this window or something similar:</p>
+
+<p><img src="https://lh4.googleusercontent.com/K-yTuKXpnAbB6oZ4tEmrMgG-l9xTKN5oSpMM_qLaDkpaJw6rF8jhO_N7arNrO_ejZdavDUkJiJz56LdLApW89cNzr7KKbM0PfGIZA-R4CDnO6j5oUFtc4F001hxxp8D3fZ4sZIeL" alt="cyberduck root" /></p>
+
+<p>For everything other than art collection images, double click into <strong>Research_Hub_Collections.</strong> Go to the folder for the appropriate collection.</p>
+
+<p><em>I strongly recommend double clicking into the folder instead of expanding them so you avoid putting images in the wrong place.</em></p>
+
+<p>4) Once you find the right folder, drag and drop your images into it. Quit Cyberduck and go back to Piction.</p>
+
+<p>5) Click on <strong>Bulk Load</strong> on the main screen. In the window that opens, click on the link for  <strong>Bulk Upload[PHOTO].</strong> Then in the next window, scroll down and click on <strong>Run Load</strong>. Ignore all the extra stuff in that window and please don’t modify anything.</p>
+
+<p><img src="https://lh5.googleusercontent.com/paiwzQhErbaAirEaOfqUSRg45m0joj3QgJGSj3NESX4bxJTd0Y1DrWLndgVLo4-gJ45XczizXhANi0p1ShOPMIkfgI5re56kiOz0s2GNxQH6GAKqXeAJiBY4N-jigF-FCqI1pWr8" alt="bulk upload photo" /></p>
+
+<p>6) Your images are now in the QA folder.</p>
+
+<h3 id="it-s-metadata-time">IT’S METADATA TIME</h3>
+
+<hr />
+
+<p>Once you have loaded images into your QA folder you need to add the appropriate metadata to your images (<a href="https://drive.google.com/open?id=15ZfRbz16NZaRjWAGs6aCE2R7G_jbtgRbNe-79aBNxps">here’s the Piction metadata guide</a>).</p>
+
+<p><img src="https://lh4.googleusercontent.com/UJ80nsvD6r9ZceXkmQckNFvEpw4DR-svaW9uInmQD40g41Naf7LMA2SQG1x5SB2WIbZmlOWGCIRRZOqUMOAA8x4LjG6Up9Lv_3H4QAkTRlFYAHRiUq1StrEDzRmJeqNl0ZYDMS_a?height=400px" alt="mona lisa" /></p>
+
+<p>Very important note about something obscure: for fields like &ldquo;Tags&rdquo; (where you enter program guide tags), “People pictured,” “Artist,” or other fields where each entry turns into a link (see image above) , <strong><em>separate each value with a semicolon ( “;” )</em></strong> In the example below, I typed “mona lisa ; bob jones.”</p>
+
+<p><img src="https://lh3.googleusercontent.com/6nl4E4Zj9UIKSqMFPtWBLEVy2bUTL336p0gOgbv0AZycYx4u-FUq1fwBDce3axTTLUvNCS1_5Zdd2SS0WNxrVku2LpBF_LFjrisGa8sA0QBfTh963r4nRHxMF8ypk6NjhaafC-ok?width=250px" alt="mona lisa md" /></p>
+
+<p>Edit single image metadata</p>
+
+<p>1) Select the image you want to work on.</p>
+
+<p>2) Click on <strong>Edit metadata</strong>.</p>
+
+<p>3) In the new window that opens, enter metadata into the appropriate fields for the collection you are working on.</p>
+
+<p>4) When you are done go to the bottom of the window and click <strong>Save</strong>.</p>
+
+<p>5) Move your image to the folder where it will ultimately live.</p>
+
+<p>Edit batch metadata</p>
+
+<p>Often, you will have a group of images that might have unique fields like &ldquo;artist,&rdquo; but share common data like program guide “Tags” or maybe “Title of PFA Series.” Please note that you can <strong>ONLY</strong> bulk attach metadata for images in the same category; Film with Film, Events with Events, etc. If you try to mix and match, bad things will happen. For example if you have accounts for both Film Stills and Gallery Exhibitions you’ll need to switch accounts in order to access the right bulk metadata attach template.</p>
+
+<p>FYI: the program guide tag is formatted &ldquo;bampfaYYYY_mm-mm(-mm)&rdquo; examples: bampfa2016_05-06 ; bampfa2016_02-03-04</p>
+
+<p>Try it out:</p>
+
+<p>1) Gather the group of images you want to work with, either within the QA folder, or using a search, or going into a specific folder.</p>
+
+<p>2) Click on <strong>Metadata Attach</strong></p>
+
+<p><img src="https://lh3.googleusercontent.com/NsWvMAWh5WU-k_SbeLHqYJaVKmTtFcjktifWn1xP3MPrMhq86hnzxiTr6ARJVIrAKAIFm344dA9cfL-OPi_YsdOZb1lkHgOlIqwKImgOI-dM59TI1ZXDWSHcX-c2l6_9MBkGVIkc?width=300px" alt="metadata attach" /></p>
+
+<p>3) In the new window that opens, you will be asked to enter metadata that want to apply to the group of images you have in mind. Remember that each piece of data has to apply to the <em>entire group</em>, not just one image.</p>
+
+<p>4) Enter your data.</p>
+
+<p>5) When you are done, click <strong>OK</strong>. You will be directed to go back to the main window, so do that.</p>
+
+<p>6) Back in in the main window, select the images you want to apply the fresh data to. Drag them over to the box that looks like the one at the right. If these images already have some metadata you really want to check the &ldquo;suffix&rdquo; box (see image). Otherwise you can replace what is already there and lose valuable data. Eep!</p>
+
+<p><img src="https://lh6.googleusercontent.com/J6ld1scP0SABCYFTeQPmFtpnukp_O6HBFaRfejwACgXFyU4IP9uadfYsUCX3mes3BOiCQDaDTvRqYR2AEoXoBdUse4EG49R5RTeIcgWBM5HMeK-ts7aHr-mHuYw3BXJxozl_P07k" alt="metadata drop box" /></p>
+
+<p>7) Click <strong>Exit Metadata Attach</strong> and you will… exit Metadata Attach. You’re done.</p>
+
+<h3 id="creating-folders-and-moving-stuff">Creating folders and moving stuff</h3>
+
+<hr />
+
+<p>Piction makes it easy to make folders and move images around, but please keep the following points in mind.</p>
+
+<p>1) Images in QA folders are not usable by everyone until you move them to the main folder for the collection where the image belongs.</p>
+
+<p>2) When you create a folder (see basic training handout for instructions) your new folder is not ordered alphabetically. It goes to the bottom of the list. For example, if you have a folder &ldquo;Folders&rdquo; with subfolders “A” “C” “D,” and you add subfolder “B,” the new folder won’t come second, it will be last.</p>
+
+<p>3) To move items you just drag and drop.</p>
+
+<p><strong><em>Again if you have any questions or if something isn’t working for you, please ask.</em></strong></p>
+
+
+<footer class=" footline" >
+	
+</footer>
+
+
+
+      </div>
+    </div>
+
+    
+ 
+    
+
+    <div id="navigation">
+        
+        
+        
+            
+            
+            
+                
+                    
+                
+                
+                
+                    
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                
+                    
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                
+                    
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                
+                    
+            
+            
+                
+                    
+                    
+                
+                
+                
+            
+        
+                
+                    
+            
+            
+                
+                    
+                        
+                        
+                    
+                
+                
+                
+            
+        
+                
+            
+        
+        
+            
+            
+            
+                
+                    
+                
+                
+                
+                    
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                
+                    
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                
+            
+        
+        
+            
+            
+            
+                
+                    
+                
+                
+                
+                    
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                
+                    
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                
+            
+        
+          
+
+        
+
+
+        
+            <a class="nav nav-prev" href="/BAMPFA-documentation/piction/piction-filename-examples-cheat-sheet/" title="Filenaming Cheat Sheet"> <i class="fa fa-chevron-left"></i></a>
+        
+        
+            <a class="nav nav-next" href="/BAMPFA-documentation/piction/piction-metadata-guide/" title="Piction Metadata Guide" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
+        
+    </div>
+
+    </section>
+    <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">
+      <div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div>
+    </div>
+    <script src="/BAMPFA-documentation/js/clipboard.min.js"></script>
+    <script src="/BAMPFA-documentation/js/jquery.sticky-kit.min.js"></script>
+    <script src="/BAMPFA-documentation/js/featherlight.min.js"></script>
+    <script src="/BAMPFA-documentation/js/html5shiv-printshiv.min.js"></script>
+    <script src="/BAMPFA-documentation/js/highlight.pack.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+    <script src="/BAMPFA-documentation/js/modernizr.custom.71422.js"></script>
+    <script src="/BAMPFA-documentation/js/learn.js"></script>
+    <script src="/BAMPFA-documentation/js/hugo-learn.js"></script>
+
+    
+    <link href="/BAMPFA-documentation/mermaid/mermaid.css" type="text/css" rel="stylesheet"/>
+    <script src="/BAMPFA-documentation/mermaid/mermaid.js"></script>
+    <script>mermaid.initialize({startOnLoad:true});</script>
+    
+
+    
+
+  </body>
+</html>
+
