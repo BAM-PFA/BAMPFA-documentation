@@ -7,7 +7,7 @@ description = ""
 [menu.main]
 parent="Piction"
 identifier = "filenames short"
-weight = 1
+weight = 3
 
 +++
 

@@ -6,7 +6,7 @@ type="HomePage"
 
 
 +++
-![logo](UCBVP3235_Logo.png?height=100px)
+![logo](favicon.png?height=100px)
 
 # BAMPFA DOCUMENTATION
 

@@ -12,14 +12,24 @@
     
     <item>
       <title>Advanced Piction Usage</title>
-      <link>http://bampfa.github.io/BAMPFA-documentation/piction/advanced-piction-tips--tricks-uploading-metadata--more-/</link>
+      <link>http://bampfa.github.io/BAMPFA-documentation/piction/advanced-piction-tips--tricks-uploading-metadata--more/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://bampfa.github.io/BAMPFA-documentation/piction/advanced-piction-tips--tricks-uploading-metadata--more-/</guid>
+      <guid>http://bampfa.github.io/BAMPFA-documentation/piction/advanced-piction-tips--tricks-uploading-metadata--more/</guid>
       <description>Short login screen URL: bampfa.org/piction
 If you have any questions about any of this, or if you experience anything unexpected while working in Piction, ask Michael, Orlando, or Dave. Don’t suffer alone!
 A WORD OF WARNING: DON’T TRY THIS AT HOME (WITHOUT TRAINING)
  IF YOU HAVE NOT YET RECEIVED PICTION TRAINING, DO NOT TRY TO UPLOAD ANY IMAGES OR EDIT ANY METADATA. Preface: about accounts Log into the account into which you need to upload images or batch edit metadata.</description>
+    </item>
+    
+    <item>
+      <title>BAMPFA Filenaming Guide</title>
+      <link>http://bampfa.github.io/BAMPFA-documentation/piction/piction-filenaming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://bampfa.github.io/BAMPFA-documentation/piction/piction-filenaming/</guid>
+      <description>BAMPFA Filenaming Guidelines * *Updated *2017-03-27
+Filenaming is one of the most important things you do to a digital image after you click the shutter or press &amp;ldquo;scan.&amp;rdquo; It is the first line of defense in making sure your image is not lost in the digital ether. For Art Collection images in Piction, it is absolutely critical to follow the naming conventions here. You’ll see references to metadata here, which you can learn more about from this document.</description>
     </item>
     
     <item>
@@ -45,6 +55,15 @@ General structure: &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;b
       
       <guid>http://bampfa.github.io/BAMPFA-documentation/piction/piction/</guid>
       <description>Here&amp;rsquo;s some basic info about using Piction.</description>
+    </item>
+    
+    <item>
+      <title>Piction Metadata Guide</title>
+      <link>http://bampfa.github.io/BAMPFA-documentation/piction/piction-metadata-guide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://bampfa.github.io/BAMPFA-documentation/piction/piction-metadata-guide/</guid>
+      <description>Metadata instructions by Piction collection You will notice that each collection in Piction (CSpace, Events, Film Stills, etc.) has its own set of metadata fields. This guide should help you figure out what the field names mean and what kind of info to enter into each field. In many cases you won’t have definitive information for a given field. When in doubt, leave a field blank rather than guess and potentially enter incorrect information.</description>
     </item>
     
   </channel>
