@@ -1,14 +1,16 @@
 +++
 draft="false"
 
-title = "Website"
+title = "Website Documentation"
 description=""
 
 [menu.main]
-identifier = "Website"
+identifier = "website"
 parent=""
 weight = 1
 
 +++
 
-Here's some basic info about using Piction.
+Here's some basic info about using Piction. 
+
+[bampfa.org/piction](bampfa.org/piction)
