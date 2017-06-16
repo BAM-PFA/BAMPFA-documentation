@@ -11,4 +11,6 @@ weight = 1
 
 +++
 
-Here's some basic info about using Piction.
+Here's some basic info about using Piction. 
+
+[bampfa.org/piction](bampfa.org/piction)

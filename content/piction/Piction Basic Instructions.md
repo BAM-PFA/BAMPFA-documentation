@@ -47,15 +47,15 @@ If you just need to see a larger version of an image, you can double click on th
 
 Looking below each image thumbnail you see a set of small icons. These allow you to you to perform various functions with an image, including downloading. 
 
-1. ![image alt text](image_0.png)The "D" icon indicates that there are detail images associated with the "primary object". *This is a concept that applies only to the art collection images*. Click on the “D” to display all “non-primary” images. In short, there may be a “primary” image for a work, as well as various details, derivatives, alternative views, etc. Only the “primary” image displays on the main panel, but clicking on the “D” shows you any additional images that are associated with a work. 
+![image alt text](image_0.png)The "D" icon indicates that there are detail images associated with the "primary object". *This is a concept that applies only to the art collection images*. Click on the “D” to display all “non-primary” images. In short, there may be a “primary” image for a work, as well as various details, derivatives, alternative views, etc. Only the “primary” image displays on the main panel, but clicking on the “D” shows you any additional images that are associated with a work. 
 
-2. ![image alt text](image_1.png)This is the download button. A dialog box will appear asking what you would like to do next. Currently, most staff have immediate access to a maximum 1200 pixel width image. You can request a full size image if needed. In this window, you can either open the 1200 pixel image in a new window or save the image to your computer.
+![image alt text](image_1.png)This is the download button. A dialog box will appear asking what you would like to do next. Currently, most staff have immediate access to a maximum 1200 pixel width image. You can request a full size image if needed. In this window, you can either open the 1200 pixel image in a new window or save the image to your computer.
 
-3. ![image alt text](image_2.png)This opens a viewer in which you can zoom into an image for closer inspection and view its metadata.
+![image alt text](image_2.png)This opens a viewer in which you can zoom into an image for closer inspection and view its metadata.
 
-d. ![image alt text](image_3.png)This icon adds the image to your request queue, if you need access to a set of images at full resolution. 
+![image alt text](image_3.png)This icon adds the image to your request queue, if you need access to a set of images at full resolution. 
 
-e. ![image alt text](image_4.png)This icon prepares a printer-friendly view of the image in a new window. It includes a small version of the image, as well as a set of key metadata fields.
+![image alt text](image_4.png)This icon prepares a printer-friendly view of the image in a new window. It includes a small version of the image, as well as a set of key metadata fields.
 
 **Detail/Primary Images**
 

@@ -1,12 +1,11 @@
 +++
 draft="false"
-title = "Landing page"
+title = "BAMPFA Documentation"
 
 type="HomePage"
-
-
 +++
-![logo](favicon.png?height=100px)
+
+![logo](images/favicon.png?height=100px)
 
 # BAMPFA DOCUMENTATION
 
@@ -14,7 +13,8 @@ type="HomePage"
 
 ## CONTENTS
 
-[PICTION DOCUMENTATION](piction/piction/)
-
 [GENERAL IMAGING DOCUMENTATION](general-imaging/imaging/)
 
+[PICTION DOCUMENTATION](piction/piction/)
+
+[LIBRARY DOCUMENTATION](library-guidelines/library/)

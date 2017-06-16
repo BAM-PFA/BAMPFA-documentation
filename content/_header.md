@@ -5,4 +5,4 @@ description = ""
 
 +++
 
-BAMPFA documentation
+BAMPFA Documentation
