@@ -7,6 +7,10 @@
   </url>
   
   <url>
+    <loc>http://bampfa.github.io/BAMPFA-documentation/</loc>
+  </url>
+  
+  <url>
     <loc>http://bampfa.github.io/BAMPFA-documentation/piction/piction-filenaming/</loc>
   </url>
   
@@ -21,6 +25,10 @@
   
   <url>
     <loc>http://bampfa.github.io/BAMPFA-documentation/library-guidelines/ocr-directions/</loc>
+  </url>
+  
+  <url>
+    <loc>http://bampfa.github.io/BAMPFA-documentation/website/ia/</loc>
   </url>
   
   <url>
@@ -42,10 +50,6 @@
   
   <url>
     <loc>http://bampfa.github.io/BAMPFA-documentation/piction/piction-basic-instructions/</loc>
-  </url>
-  
-  <url>
-    <loc>http://bampfa.github.io/BAMPFA-documentation/</loc>
   </url>
   
   <url>
@@ -76,7 +80,16 @@
   </url>
   
   <url>
+    <loc>http://bampfa.github.io/BAMPFA-documentation/website/website/</loc>
+  </url>
+  
+  <url>
     <loc>http://bampfa.github.io/BAMPFA-documentation/general-imaging/images-for-website/</loc>
+  </url>
+  
+  <url>
+    <loc>http://bampfa.github.io/BAMPFA-documentation/website/</loc>
+    <priority>0</priority>
   </url>
   
   <url>

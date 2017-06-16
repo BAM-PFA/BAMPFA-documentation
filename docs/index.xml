@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Landing page on bampfa documentation</title>
+    <title>BAMPFA Documentation on bampfa documentation</title>
     <link>http://bampfa.github.io/BAMPFA-documentation/</link>
-    <description>Recent content in Landing page on bampfa documentation</description>
+    <description>Recent content in BAMPFA Documentation on bampfa documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -53,6 +53,16 @@ Before you start scanning Make a folder for yourself where you will save all you
       <guid>http://bampfa.github.io/BAMPFA-documentation/library-guidelines/ocr-directions/</guid>
       <description>DIRECTIONS FOR OCR SCANNING 2/11/2015 Scanning 1) Log intohttp://berkeley.box.com (use your Calnet ID) and go to the OCR Sheets folder. Volunteers should ask Michael, Jason, or Nancy to access Box for these steps.
 2) All the film title cabinets are labeled CAB01, CAB02, etc. and there is an Excel spreadsheet for each one. Find the spreadsheet for the cabinet that you will be working on and download it. Move the spreadsheet from the desktop to the OCR DAILY FOLDER.</description>
+    </item>
+    
+    <item>
+      <title>Content Types</title>
+      <link>http://bampfa.github.io/BAMPFA-documentation/website/ia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://bampfa.github.io/BAMPFA-documentation/website/ia/</guid>
+      <description>Listed below are the various content types that are used by the Drupal website.
+Basic Page The &amp;ldquo;Basic Page&amp;rdquo; content type is for generic webpages on the site meant to convey information on a particular subject. They can be used for any purpose, but are generally not ideal for information time-sensitive information, or information that becomes irrelevant at a certain time. For instance, information about admissions policies is ideal for a basic page, whereas information about admissions pricing for a specific weekend is not ideal.</description>
     </item>
     
     <item>
@@ -119,7 +129,8 @@ Please bookmark this URL. Piction requires Firefox to run properly. It won’t w
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://bampfa.github.io/BAMPFA-documentation/piction/piction/</guid>
-      <description>Here&amp;rsquo;s some basic info about using Piction.</description>
+      <description>Here&amp;rsquo;s some basic info about using Piction.
+bampfa.org/piction</description>
     </item>
     
     <item>
@@ -129,6 +140,15 @@ Please bookmark this URL. Piction requires Firefox to run properly. It won’t w
       
       <guid>http://bampfa.github.io/BAMPFA-documentation/piction/piction-metadata-guide/</guid>
       <description>Metadata instructions by Piction collection You will notice that each collection in Piction (CSpace, Events, Film Stills, etc.) has its own set of metadata fields. This guide should help you figure out what the field names mean and what kind of info to enter into each field. In many cases you won’t have definitive information for a given field. When in doubt, leave a field blank rather than guess and potentially enter incorrect information.</description>
+    </item>
+    
+    <item>
+      <title>Website</title>
+      <link>http://bampfa.github.io/BAMPFA-documentation/website/website/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://bampfa.github.io/BAMPFA-documentation/website/website/</guid>
+      <description>Here&amp;rsquo;s some basic info about using Piction.</description>
     </item>
     
     <item>
@@ -149,7 +169,7 @@ Please bookmark this URL. Piction requires Firefox to run properly. It won’t w
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://bampfa.github.io/BAMPFA-documentation/_header/</guid>
-      <description>BAMPFA documentation</description>
+      <description>BAMPFA Documentation</description>
     </item>
     
   </channel>
