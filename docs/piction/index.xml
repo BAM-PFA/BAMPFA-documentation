@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pictions on bampfa documentation</title>
-    <link>http://bampfa.github.io/BAMPFA-documentation/piction/</link>
+    <link>http://bam-pfa.github.io/BAMPFA-documentation/piction/</link>
     <description>Recent content in Pictions on bampfa documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://bampfa.github.io/BAMPFA-documentation/piction/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://bam-pfa.github.io/BAMPFA-documentation/piction/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Advanced Piction Usage: Uploading, Metadata, Etc.</title>
-      <link>http://bampfa.github.io/BAMPFA-documentation/piction/advanced-piction-tips--tricks-uploading-metadata--more/</link>
+      <link>http://bam-pfa.github.io/BAMPFA-documentation/piction/advanced-piction-tips--tricks-uploading-metadata--more/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://bampfa.github.io/BAMPFA-documentation/piction/advanced-piction-tips--tricks-uploading-metadata--more/</guid>
+      <guid>http://bam-pfa.github.io/BAMPFA-documentation/piction/advanced-piction-tips--tricks-uploading-metadata--more/</guid>
       <description>Short login screen URL: bampfa.org/piction
 If you have any questions about any of this, or if you experience anything unexpected while working in Piction, ask Michael, Orlando, or Dave. Don’t suffer alone!
 A WORD OF WARNING: DON’T TRY THIS AT HOME (WITHOUT TRAINING)
@@ -25,20 +25,20 @@ Preface: about accounts Log into the account into which you need to upload image
     
     <item>
       <title>BAMPFA Filenaming Guidelines</title>
-      <link>http://bampfa.github.io/BAMPFA-documentation/piction/piction-filenaming/</link>
+      <link>http://bam-pfa.github.io/BAMPFA-documentation/piction/piction-filenaming/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://bampfa.github.io/BAMPFA-documentation/piction/piction-filenaming/</guid>
+      <guid>http://bam-pfa.github.io/BAMPFA-documentation/piction/piction-filenaming/</guid>
       <description>Updated 2017-03-27
 Filenaming is one of the most important things you do to a digital image after you click the shutter or press &amp;ldquo;scan.&amp;rdquo; It is the first line of defense in making sure your image is not lost in the digital ether. For Art Collection images in Piction, it is absolutely critical to follow the naming conventions here. You’ll see references to metadata here, which you can learn more about from this document.</description>
     </item>
     
     <item>
       <title>Filenaming Cheat Sheet</title>
-      <link>http://bampfa.github.io/BAMPFA-documentation/piction/piction-filename-examples-cheat-sheet/</link>
+      <link>http://bam-pfa.github.io/BAMPFA-documentation/piction/piction-filename-examples-cheat-sheet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://bampfa.github.io/BAMPFA-documentation/piction/piction-filename-examples-cheat-sheet/</guid>
+      <guid>http://bam-pfa.github.io/BAMPFA-documentation/piction/piction-filename-examples-cheat-sheet/</guid>
       <description>NO SPECIAL CHARACTERS (PUNCTUATION, ACCENTS, SPACES, ETC)
 Only use &amp;ldquo;normal&amp;rdquo; characters: A-Z a-z 0-9 plus _ and -
 Artworks NOT accessioned by BAMPFA General structure: &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;ArtistLastName_Title-Of-Work_Optional-date-if-known_number.filetype
@@ -51,10 +51,10 @@ General structure: &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;b
     
     <item>
       <title>Introduction to Piction</title>
-      <link>http://bampfa.github.io/BAMPFA-documentation/piction/piction-basic-instructions/</link>
+      <link>http://bam-pfa.github.io/BAMPFA-documentation/piction/piction-basic-instructions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://bampfa.github.io/BAMPFA-documentation/piction/piction-basic-instructions/</guid>
+      <guid>http://bam-pfa.github.io/BAMPFA-documentation/piction/piction-basic-instructions/</guid>
       <description>General information Piction is intended to be the primary place to store and share images internally, arcoss all of BAMPFA. We can use this system to create checklists, compile images for publications, fulfill research requests, and many other tasks. Piction is accessed via the web using the following URL:
 bampfa.org/piction
 Please bookmark this URL. Piction requires Firefox to run properly. It won’t work in Chrome. If you need help with logging in (or anything else), please email Michael.</description>
@@ -62,20 +62,20 @@ Please bookmark this URL. Piction requires Firefox to run properly. It won’t w
     
     <item>
       <title>Piction Documentation</title>
-      <link>http://bampfa.github.io/BAMPFA-documentation/piction/piction/</link>
+      <link>http://bam-pfa.github.io/BAMPFA-documentation/piction/piction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://bampfa.github.io/BAMPFA-documentation/piction/piction/</guid>
+      <guid>http://bam-pfa.github.io/BAMPFA-documentation/piction/piction/</guid>
       <description>Here&amp;rsquo;s some basic info about using Piction.
 bampfa.org/piction</description>
     </item>
     
     <item>
       <title>Piction Metadata Guide</title>
-      <link>http://bampfa.github.io/BAMPFA-documentation/piction/piction-metadata-guide/</link>
+      <link>http://bam-pfa.github.io/BAMPFA-documentation/piction/piction-metadata-guide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://bampfa.github.io/BAMPFA-documentation/piction/piction-metadata-guide/</guid>
+      <guid>http://bam-pfa.github.io/BAMPFA-documentation/piction/piction-metadata-guide/</guid>
       <description>Metadata instructions by Piction collection You will notice that each collection in Piction (CSpace, Events, Film Stills, etc.) has its own set of metadata fields. This guide should help you figure out what the field names mean and what kind of info to enter into each field. In many cases you won’t have definitive information for a given field. When in doubt, leave a field blank rather than guess and potentially enter incorrect information.</description>
     </item>
     

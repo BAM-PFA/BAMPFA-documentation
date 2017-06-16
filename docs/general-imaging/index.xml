@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>General imagings on bampfa documentation</title>
-    <link>http://bampfa.github.io/BAMPFA-documentation/general-imaging/</link>
+    <link>http://bam-pfa.github.io/BAMPFA-documentation/general-imaging/</link>
     <description>Recent content in General imagings on bampfa documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://bampfa.github.io/BAMPFA-documentation/general-imaging/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://bam-pfa.github.io/BAMPFA-documentation/general-imaging/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>General Imaging Guidelines</title>
-      <link>http://bampfa.github.io/BAMPFA-documentation/general-imaging/imaging/</link>
+      <link>http://bam-pfa.github.io/BAMPFA-documentation/general-imaging/imaging/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://bampfa.github.io/BAMPFA-documentation/general-imaging/imaging/</guid>
+      <guid>http://bam-pfa.github.io/BAMPFA-documentation/general-imaging/imaging/</guid>
       <description>Here&amp;rsquo;s some general stuff about creating, using, and storing images for BAMPFA.</description>
     </item>
     
     <item>
       <title>Guidelines for scanning 4x5 film</title>
-      <link>http://bampfa.github.io/BAMPFA-documentation/general-imaging/guidelines-to-scan-4_-x-5_-transparencies/</link>
+      <link>http://bam-pfa.github.io/BAMPFA-documentation/general-imaging/guidelines-to-scan-4_-x-5_-transparencies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://bampfa.github.io/BAMPFA-documentation/general-imaging/guidelines-to-scan-4_-x-5_-transparencies/</guid>
+      <guid>http://bam-pfa.github.io/BAMPFA-documentation/general-imaging/guidelines-to-scan-4_-x-5_-transparencies/</guid>
       <description>SCANNING 4&amp;rdquo; X 5” TRANSPARENCIES
 ABOUT
 4&amp;rdquo; x 5” transparencies (positive large format film shot with a &amp;ldquo;real” camera) are in many cases the only photography that exist for older BAMPFA collection works. Many of these were shot by Ben Blackwell through the early 2000s before digital cameras replaced film for art collection documentation.
@@ -34,10 +34,10 @@ Please wear a pair of white cotton gloves when handling photographs or film. Use
     
     <item>
       <title>Website image requirements</title>
-      <link>http://bampfa.github.io/BAMPFA-documentation/general-imaging/images-for-website/</link>
+      <link>http://bam-pfa.github.io/BAMPFA-documentation/general-imaging/images-for-website/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://bampfa.github.io/BAMPFA-documentation/general-imaging/images-for-website/</guid>
+      <guid>http://bam-pfa.github.io/BAMPFA-documentation/general-imaging/images-for-website/</guid>
       <description> Requirements for web images  Maximum height/width of 1200px
  Filename contains no spaces, accurately describes images
  Saved as a JPG, at 72 DPI
