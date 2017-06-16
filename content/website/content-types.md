@@ -5,7 +5,7 @@ title = "Content Types"
 description = ""
 
 [menu.main]
-parent="Website"
+parent="website"
 identifier = "Content Types"
 weight = 1
 
