@@ -11,6 +11,5 @@ weight = 4
 
 +++
 
-Here's some basic info about using Piction. 
+Here's some stuff about adding to [bampfa.org](http://bampfa.org). 
 
-[bampfa.org/piction](bampfa.org/piction)

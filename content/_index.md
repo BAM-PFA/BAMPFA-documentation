@@ -13,8 +13,10 @@ type="HomePage"
 
 ## CONTENTS
 
+[WEBSITE DOCUMENTATION](website/website/)
+
 [GENERAL IMAGING DOCUMENTATION](general-imaging/imaging/)
 
-[PICTION DOCUMENTATION](piction/piction/)
+[PICTION INSTRUCTIONS](piction/piction/)
 
 [LIBRARY DOCUMENTATION](library-guidelines/library/)

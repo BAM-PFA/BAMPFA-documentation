@@ -1,8 +1,14 @@
 languageCode = "en-us"
 title = "bampfa documentation"
-baseURL = "http://bam-pfa.github.io/BAMPFA-documentation"
+baseURL = "/"
+
 
 theme="hugo-theme-docdock"
 unfoldedMenus = ["start"]
 
+
 publishDir = "docs"
+
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]

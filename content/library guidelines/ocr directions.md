@@ -7,7 +7,7 @@ description=""
 [menu.main]
 parent="library"
 identifier = "ocr directions"
-weight = 2
+weight = 5
 
 +++
 

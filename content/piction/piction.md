@@ -1,7 +1,7 @@
 +++
 draft="false"
 
-title = "Piction Documentation"
+title = "Piction Instructions"
 description=""
 
 [menu.main]

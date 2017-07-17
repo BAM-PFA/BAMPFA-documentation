@@ -17,6 +17,7 @@
       
       <guid>http://bam-pfa.github.io/BAMPFA-documentation/website/content-types/</guid>
       <description>Listed below are the various content types that are used by the Drupal website.
+test
 Basic Page The &amp;ldquo;Basic Page&amp;rdquo; content type is for generic webpages on the site meant to convey information on a particular subject. They can be used for any purpose, but are generally not ideal for information time-sensitive information, or information that becomes irrelevant at a certain time. For instance, information about admissions policies is ideal for a basic page, whereas information about admissions pricing for a specific weekend is not ideal.</description>
     </item>
     
