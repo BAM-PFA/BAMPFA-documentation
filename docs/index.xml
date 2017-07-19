@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BAMPFA Documentation on bampfa documentation</title>
-    <link>/</link>
+    <link>BAMPFA-documentation/</link>
     <description>Recent content in BAMPFA Documentation on bampfa documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="BAMPFA-documentation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Advanced Piction Usage: Uploading, Metadata, Etc.</title>
-      <link>/piction/advanced-piction-tips--tricks-uploading-metadata--more/</link>
+      <link>BAMPFA-documentation/piction/advanced-piction-tips--tricks-uploading-metadata--more/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/piction/advanced-piction-tips--tricks-uploading-metadata--more/</guid>
+      <guid>BAMPFA-documentation/piction/advanced-piction-tips--tricks-uploading-metadata--more/</guid>
       <description>Short login screen URL: bampfa.org/piction
 If you have any questions about any of this, or if you experience anything unexpected while working in Piction, ask Michael, Orlando, or Dave. Don’t suffer alone!
 A WORD OF WARNING: DON’T TRY THIS AT HOME (WITHOUT TRAINING)
@@ -25,20 +25,20 @@ Preface: about accounts Log into the account into which you need to upload image
     
     <item>
       <title>BAMPFA Filenaming Guidelines</title>
-      <link>/piction/piction-filenaming/</link>
+      <link>BAMPFA-documentation/piction/piction-filenaming/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/piction/piction-filenaming/</guid>
+      <guid>BAMPFA-documentation/piction/piction-filenaming/</guid>
       <description>Updated 2017-03-27
 Filenaming is one of the most important things you do to a digital image after you click the shutter or press &amp;ldquo;scan.&amp;rdquo; It is the first line of defense in making sure your image is not lost in the digital ether. For Art Collection images in Piction, it is absolutely critical to follow the naming conventions here. You’ll see references to metadata here, which you can learn more about from this document.</description>
     </item>
     
     <item>
       <title>CineFiles Scanning and Uploading</title>
-      <link>/library-guidelines/cinefiles-scanning-and-uploading-directions/</link>
+      <link>BAMPFA-documentation/library-guidelines/cinefiles-scanning-and-uploading-directions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/library-guidelines/cinefiles-scanning-and-uploading-directions/</guid>
+      <guid>BAMPFA-documentation/library-guidelines/cinefiles-scanning-and-uploading-directions/</guid>
       <description>CINEFILES SCANNING AND UPLOADING DIRECTIONS
 Before you start scanning Make a folder for yourself where you will save all your work for the day. Name it according to this structure:YYMMDDyourname Example: 150729Maya
  Put the folder into the Cinefiles folder: CINEFILES&amp;gt;IMAGES IN PROCESS  Get ready to scan! Look in the compact shelving drawer or ask Jason for documents that need to be scanned.
@@ -47,20 +47,20 @@ Before you start scanning Make a folder for yourself where you will save all you
     
     <item>
       <title>Clipping Files OCR instructions</title>
-      <link>/library-guidelines/ocr-directions/</link>
+      <link>BAMPFA-documentation/library-guidelines/ocr-directions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/library-guidelines/ocr-directions/</guid>
+      <guid>BAMPFA-documentation/library-guidelines/ocr-directions/</guid>
       <description>DIRECTIONS FOR OCR SCANNING 2/11/2015 Scanning 1) Log intohttp://berkeley.box.com (use your Calnet ID) and go to the OCR Sheets folder. Volunteers should ask Michael, Jason, or Nancy to access Box for these steps.
 2) All the film title cabinets are labeled CAB01, CAB02, etc. and there is an Excel spreadsheet for each one. Find the spreadsheet for the cabinet that you will be working on and download it. Move the spreadsheet from the desktop to the OCR DAILY FOLDER.</description>
     </item>
     
     <item>
       <title>Content Types</title>
-      <link>/website/content-types/</link>
+      <link>BAMPFA-documentation/website/content-types/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/website/content-types/</guid>
+      <guid>BAMPFA-documentation/website/content-types/</guid>
       <description>Listed below are the various content types that are used by the Drupal website.
 test
 Basic Page The &amp;ldquo;Basic Page&amp;rdquo; content type is for generic webpages on the site meant to convey information on a particular subject. They can be used for any purpose, but are generally not ideal for information time-sensitive information, or information that becomes irrelevant at a certain time. For instance, information about admissions policies is ideal for a basic page, whereas information about admissions pricing for a specific weekend is not ideal.</description>
@@ -68,10 +68,10 @@ Basic Page The &amp;ldquo;Basic Page&amp;rdquo; content type is for generic webp
     
     <item>
       <title>Filenaming Cheat Sheet</title>
-      <link>/piction/piction-filename-examples-cheat-sheet/</link>
+      <link>BAMPFA-documentation/piction/piction-filename-examples-cheat-sheet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/piction/piction-filename-examples-cheat-sheet/</guid>
+      <guid>BAMPFA-documentation/piction/piction-filename-examples-cheat-sheet/</guid>
       <description>NO SPECIAL CHARACTERS (PUNCTUATION, ACCENTS, SPACES, ETC)
 Only use &amp;ldquo;normal&amp;rdquo; characters: A-Z a-z 0-9 plus _ and -
 Artworks NOT accessioned by BAMPFA General structure: &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;ArtistLastName_Title-Of-Work_Optional-date-if-known_number.filetype
@@ -84,19 +84,19 @@ General structure: &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;b
     
     <item>
       <title>General Imaging Guidelines</title>
-      <link>/general-imaging/imaging/</link>
+      <link>BAMPFA-documentation/general-imaging/imaging/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/general-imaging/imaging/</guid>
+      <guid>BAMPFA-documentation/general-imaging/imaging/</guid>
       <description>Here&amp;rsquo;s some general stuff about creating, using, and storing images for BAMPFA.</description>
     </item>
     
     <item>
       <title>Guidelines for scanning 4x5 film</title>
-      <link>/general-imaging/guidelines-to-scan-4_-x-5_-transparencies/</link>
+      <link>BAMPFA-documentation/general-imaging/guidelines-to-scan-4_-x-5_-transparencies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/general-imaging/guidelines-to-scan-4_-x-5_-transparencies/</guid>
+      <guid>BAMPFA-documentation/general-imaging/guidelines-to-scan-4_-x-5_-transparencies/</guid>
       <description>SCANNING 4&amp;rdquo; X 5” TRANSPARENCIES
 ABOUT
 4&amp;rdquo; x 5” transparencies (positive large format film shot with a &amp;ldquo;real” camera) are in many cases the only photography that exist for older BAMPFA collection works. Many of these were shot by Ben Blackwell through the early 2000s before digital cameras replaced film for art collection documentation.
@@ -106,10 +106,10 @@ Please wear a pair of white cotton gloves when handling photographs or film. Use
     
     <item>
       <title>How to use Adobe Bridge</title>
-      <link>/general-imaging/adobebridge/</link>
+      <link>BAMPFA-documentation/general-imaging/adobebridge/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/general-imaging/adobebridge/</guid>
+      <guid>BAMPFA-documentation/general-imaging/adobebridge/</guid>
       <description>Using Adobe Bridge (to batch rename &amp;amp; edit metadata)
 Adobe Bridge can be used to do many complex processes in managing photos, but it is easy enough to use it for some simple, handy tasks. For our purposes at BAMPFA, Bridge is best for renaming photos (to follow our naming conventions) and for adding basic metadata to images.
 tl;dr here&amp;rsquo;s the video: 
@@ -119,10 +119,10 @@ Bridge is laid out similarly to the Mac OS Finder window.</description>
     
     <item>
       <title>Introduction to Piction</title>
-      <link>/piction/piction-basic-instructions/</link>
+      <link>BAMPFA-documentation/piction/piction-basic-instructions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/piction/piction-basic-instructions/</guid>
+      <guid>BAMPFA-documentation/piction/piction-basic-instructions/</guid>
       <description>General information Piction is intended to be the primary place to store and share images internally, arcoss all of BAMPFA. We can use this system to create checklists, compile images for publications, fulfill research requests, and many other tasks. Piction is accessed via the web using the following URL:
 bampfa.org/piction
 Please bookmark this URL. Piction requires Firefox to run properly. It won’t work in Chrome. If you need help with logging in (or anything else), please email Michael.</description>
@@ -130,19 +130,19 @@ Please bookmark this URL. Piction requires Firefox to run properly. It won’t w
     
     <item>
       <title>Library Documentation</title>
-      <link>/library-guidelines/library/</link>
+      <link>BAMPFA-documentation/library-guidelines/library/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/library-guidelines/library/</guid>
+      <guid>BAMPFA-documentation/library-guidelines/library/</guid>
       <description>Here are some documents about library processes.</description>
     </item>
     
     <item>
       <title>Photoshop for CineFiles</title>
-      <link>/library-guidelines/photoshop-4-cinefiles/</link>
+      <link>BAMPFA-documentation/library-guidelines/photoshop-4-cinefiles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/library-guidelines/photoshop-4-cinefiles/</guid>
+      <guid>BAMPFA-documentation/library-guidelines/photoshop-4-cinefiles/</guid>
       <description>Editing images in Photoshop for CineFiles Note July 2017: these instructions are from 2010 and need to be updated/edited for clarity
 Now you should have a manageable batch of images in your IN PROGRESS folder. Somewhere between 5-10 should be good, or a booklet worth of images. It depends.
 Open your batch of images in PS. There are lots of ways to do this. For example, you can select all the images in Finder and drag them to the PS icon in the dock.</description>
@@ -150,10 +150,10 @@ Open your batch of images in PS. There are lots of ways to do this. For example,
     
     <item>
       <title>Photoshop shortcuts</title>
-      <link>/library-guidelines/photoshop-shortcuts/</link>
+      <link>BAMPFA-documentation/library-guidelines/photoshop-shortcuts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/library-guidelines/photoshop-shortcuts/</guid>
+      <guid>BAMPFA-documentation/library-guidelines/photoshop-shortcuts/</guid>
       <description>Photoshop Keyboard Shortcuts These shortcuts should help you as you prep images in Photoshop for CineFiles.
 Note: these shortcuts are custom for the 2 scanning computers in the library.
 F1
@@ -167,38 +167,38 @@ F10</description>
     
     <item>
       <title>Piction Instructions</title>
-      <link>/piction/piction/</link>
+      <link>BAMPFA-documentation/piction/piction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/piction/piction/</guid>
+      <guid>BAMPFA-documentation/piction/piction/</guid>
       <description>Here&amp;rsquo;s some basic info about using Piction.
 bampfa.org/piction</description>
     </item>
     
     <item>
       <title>Piction Metadata Guide</title>
-      <link>/piction/piction-metadata-guide/</link>
+      <link>BAMPFA-documentation/piction/piction-metadata-guide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/piction/piction-metadata-guide/</guid>
+      <guid>BAMPFA-documentation/piction/piction-metadata-guide/</guid>
       <description>Metadata instructions by Piction collection You will notice that each collection in Piction (CSpace, Events, Film Stills, etc.) has its own set of metadata fields. This guide should help you figure out what the field names mean and what kind of info to enter into each field. In many cases you won’t have definitive information for a given field. When in doubt, leave a field blank rather than guess and potentially enter incorrect information.</description>
     </item>
     
     <item>
       <title>Website Documentation</title>
-      <link>/website/website/</link>
+      <link>BAMPFA-documentation/website/website/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/website/website/</guid>
+      <guid>BAMPFA-documentation/website/website/</guid>
       <description>Here&amp;rsquo;s some stuff about adding to bampfa.org.</description>
     </item>
     
     <item>
       <title>Website image requirements</title>
-      <link>/general-imaging/images-for-website/</link>
+      <link>BAMPFA-documentation/general-imaging/images-for-website/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/general-imaging/images-for-website/</guid>
+      <guid>BAMPFA-documentation/general-imaging/images-for-website/</guid>
       <description> Requirements for web images  Maximum height/width of 1200px
  Filename contains no spaces, accurately describes images
  Saved as a JPG, at 72 DPI
@@ -207,10 +207,10 @@ bampfa.org/piction</description>
     
     <item>
       <title>header</title>
-      <link>/_header/</link>
+      <link>BAMPFA-documentation/_header/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/_header/</guid>
+      <guid>BAMPFA-documentation/_header/</guid>
       <description>BAMPFA Documentation</description>
     </item>
     

@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "bampfa documentation"
-baseURL = "/"
+baseURL = "BAMPFA-documentation/"
 
 
 theme="hugo-theme-docdock"
