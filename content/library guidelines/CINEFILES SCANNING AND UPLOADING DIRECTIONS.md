@@ -49,7 +49,7 @@ Take a look at the settings in the window that opens.  These are important! They
 
 * *All the Adjustment boxes should be unckecked!*
 
-![epson scan dialog](/images/library/epson-scan.png)
+![epson scan dialog](images/library/epson-scan.png)
 
 Put the first page of your document face down on the glass. Don’t smudge the nice clean glass! Put a piece of black construction paper behind your document. There are different sizes available on the table. Having a dark background prevents whatever is on the back of the document from showing up when you scan.
 
@@ -63,7 +63,7 @@ Hit the Preview button. You will see a preview of the entire scanning bed with y
 
 Hit the Scan button. A dialog box will pop up asking you how you want to save your image and where you want it saved: 
 
-![epson scan save dialog](/images/library/epson-filesave.png)
+![epson scan save dialog](images/library/epson-filesave.png)
 
 Tell Epson where you want your files to be saved. You only need to set this location at the beginning of your shift, but it is important to make sure you are not saving to the last person’s folder!
 
