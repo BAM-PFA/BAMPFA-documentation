@@ -317,6 +317,24 @@ Examples:
 > woman-is-a-woman_14322_pm0045628_r02of03.mov
 
 
+## PFA speaker recordings
+
+These are recordings of Osher theater guest speakers, as well as digitized audio cassettes. Dates are formatted YYYYMMDD.
+
+General structure:
+
+> full-date_title-of-film-or-event_name-of-guest_or-guests.extension
+
+Examples:
+
+Wim Wenders speaking about *The American Friend* on October 5th 1977
+
+> 19771005_The-American-Friend_Wim-Wenders.bwf
+
+Trajal Harrel, Kate Mattingly, and Megan Hoetger discussing *The Ghost of Montpellier*. 
+
+> 20160316_Ghost-of-Montpellier_Trajal-Harrell_Kate-Mattingly_Megan-Hoetger.wav
+
 ## Funder or Partner Institution Logos
 
 General Structure:

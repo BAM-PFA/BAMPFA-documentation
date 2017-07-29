@@ -13,4 +13,4 @@ weight = 1
 
 Here's some basic info about using Piction. 
 
-[bampfa.org/piction](bampfa.org/piction)
+[bampfa.org/piction](http://ucb1.piction.com/piction/gl.login_page)

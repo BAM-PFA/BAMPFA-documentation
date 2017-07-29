@@ -23,14 +23,14 @@ Please bookmark this URL. Piction requires Firefox to run properly. It won’t w
 
 The Piction folder structure divides images into several distinct categories. CSpace refers to the art collection. Events includes event documentation and publicity images. Gallery Exhibitions includes install shots and images of non-collection art. Institutional is mostly facility images and logos. PFA Film Stills is primarily for film stills.
 
-![categories](images/piction/piction_categories.jpg)
+![categories](BAMPFA-documentation/images/piction/piction_categories.jpg)
 
 Nested within each of these "categories" you may find various subfolders. When you reach a folder that does not have subfolders, there will be no “+” symbol. Simply click on the folder name and the contents will display in the main panel, while the folder name will appear at the top of the main panel. You can click on any folder name to view all its contents, including anything in any subfolders.
-![folders](images/piction/piction_subfolders.jpg)
+![folders](/images/piction/piction_subfolders.jpg)
 
 You can adjust the size of the thumbnails displayed in the main panel by dragging the "Thumbnail slider" at the top of the screen:
 
-![thumbnail](images/piction/piction_thumbnail-slider.jpg)
+![thumbnail](/BAMPFA-documentation/images/piction/piction_thumbnail-slider.jpg)
 
 The list of assets in the main panel contains several pieces of information: 
 

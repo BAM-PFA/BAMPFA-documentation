@@ -77,6 +77,22 @@ _For Battleship Potemkin, 35mm, 6 reels, PFA Accession number 3500-01-498_
 
 >battleship-potemkin_00498_pm0067890_r01of06.mov
 
+### PFA Speaker Recordings
+----
+#### General structure
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;full-date_title-of-film-or-event_name-of-guest_or-guests.extension
+
+#### Examples:
+
+_Wim Wenders speaking about *The American Friend* on October 5th 1977_
+
+> 19771005_The-American-Friend_Wim-Wenders.bwf
+
+_Trajal Harrel, Kate Mattingly, and Megan Hoetger discussing The Ghost of Montpellier._
+
+> 20160316_Ghost-of-Montpellier_Trajal-Harrell_Kate-Mattingly_Megan-Hoetger.wav
+
 ### Funder or Partner Institution Logos
 ----
 #### General Structure:
