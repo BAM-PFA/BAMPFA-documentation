@@ -30,7 +30,7 @@ Try to keep filenames under 64 characters, including hyphens (-), underscores (_
 
 Do not use _*ANY*_ special characters or punctuation in a file name. It will cause havoc down the road. Examples:
 
-<span style="color:red;">*( ) @ / \ : * ? " \< \> ’ ; +=¨*</span>
+<span style="color:red;">*( ) @ / &#92; : * ? " \< \> ’ ; +=¨*</span>
 
 Only use underscores, (_), hyphens (-), and alphanumerics (a-z, 0-9). If you have a special character in a title (I ♥ Huckabees, for example), spell out the word "heart" instead of using the special character.  Omit accents from áccented wórds or nämes; ¿leave.out.all.punctuation?: unnecessary apostrophe’s, commas; colons + etc.
 
