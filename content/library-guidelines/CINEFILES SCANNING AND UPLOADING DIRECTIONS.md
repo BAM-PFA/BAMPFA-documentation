@@ -25,11 +25,16 @@ Look in the compact shelving drawer or ask Jason for documents that need to be s
 
 * If you start to scan an entire folder of documents, be sure to keep them together, and keep scanned documents separate from unscanned ones. It helps to plan your scanning shift so that you complete a folder that you begin.
 
- On the back page of each document, you will find a document number and the total number of pages in the document: ex: 1p #56123; 24pp. #56124
+* On the back page of each document, you will find a document number and the total number of pages in the document: 
+
+> _1p #56123_
+
+> _24pp. #56124_
 
 * Take note of this number. You will use it to name your image files and to look up the corresponding document record in Collection Space.
 
-Decide whether you will scan the document in Grayscale (black and white) or Color (color).
+* Decide whether you will scan the document in Grayscale (black and white) or Color (color).
+You only scan in color if there is something in color in the document that adds meaning to the document itself. (Do scan color in autographs, don't scan paper that has turned yellow.)
 
 ## Now, really get ready to scan
 
@@ -49,7 +54,7 @@ Take a look at the settings in the window that opens.  These are important! They
 
 * *All the Adjustment boxes should be unckecked!*
 
-![epson scan dialog](images/library/epson-scan.png)
+![epson scan dialog](/BAMPFA-documentation/images/library/epson-scan.png)
 
 Put the first page of your document face down on the glass. Don’t smudge the nice clean glass! Put a piece of black construction paper behind your document. There are different sizes available on the table. Having a dark background prevents whatever is on the back of the document from showing up when you scan.
 
@@ -63,7 +68,7 @@ Hit the Preview button. You will see a preview of the entire scanning bed with y
 
 Hit the Scan button. A dialog box will pop up asking you how you want to save your image and where you want it saved: 
 
-![epson scan save dialog](images/library/epson-filesave.png)
+![epson scan save dialog](/BAMPFA-documentation/images/library/epson-filesave.png)
 
 Tell Epson where you want your files to be saved. You only need to set this location at the beginning of your shift, but it is important to make sure you are not saving to the last person’s folder!
 
@@ -82,3 +87,15 @@ Make sure Type is set to TIFF. You can leave all the other settings alone.
 Hit OK and the scanner will start to scan. 
 
 Repeat for the other documents in your workflow.
+
+## Photoshopping
+
+Photoshop the images according to the specs [here](../photoshop-4-cinefiles)
+
+## Uploading
+
+Go to [CineFiles CSpace](https://webapps.cspace.berkeley.edu/cinefiles/accounts/login/?next=/cinefiles/uploadmedia/) and log in.
+
+Select the files to upload. 
+
+Click on "Upload to CSpace and make Media Records NOW"
