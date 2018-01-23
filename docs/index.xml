@@ -143,26 +143,22 @@ Please bookmark this URL. Piction requires Firefox to run properly. It won’t w
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://bam-pfa.github.io/BAMPFA-documentation/library-guidelines/photoshop-4-cinefiles/</guid>
-      <description>Editing images in Photoshop for CineFiles Note July 2017: these instructions are from 2010 and need to be updated/edited for clarity
-Now you should have a manageable batch of images in your IN PROGRESS folder. Somewhere between 5-10 should be good, or a booklet worth of images. It depends.
-Open your batch of images in PS. There are lots of ways to do this. For example, you can select all the images in Finder and drag them to the PS icon in the dock.</description>
+      <description>TL;DR  Rotate image to be upright and straighten with ruler and &amp;lsquo;rotate arbitrary.&amp;rsquo; Crop image (not too tight, not too loose) Adjust levels (bring sliders into portion of image curve where there is data) Adjust brightness/contrast for legibility For above steps you may need to select/deselect images and text on a single page in order to modify them separately Clean up dust specks, torn edges, stains, staples, etc. (don&amp;rsquo;t go overboard) Change the mode to 8-bit from 16-bit Save-as (replace the existing image if needed) and use LZW tiff compression.</description>
     </item>
     
     <item>
-      <title>Photoshop shortcuts</title>
+      <title>Photoshop keyboard shortcuts</title>
       <link>https://bam-pfa.github.io/BAMPFA-documentation/library-guidelines/photoshop-shortcuts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://bam-pfa.github.io/BAMPFA-documentation/library-guidelines/photoshop-shortcuts/</guid>
       <description>Photoshop Keyboard Shortcuts These shortcuts should help you as you prep images in Photoshop for CineFiles.
-Note: these shortcuts are custom for the 2 scanning computers in the library.
-F1
+z
+Zoom! Hold down Option to get the zoom out tool.
+c
+Crop. Hit Enter to perform your crop.
 r
-F2
-F3
-command+z
-F8
-F10</description>
+Ruler. Click and drag to make a line against which you want to orient the document. i.e., if your line is .05° clockwise from level, you will rotate the entire document .05° counterclockwise.</description>
     </item>
     
     <item>
